@@ -1,6 +1,4 @@
-# Learning Hub
-
-Guerilla Open Access Manifesto 
+#Guerilla Open Access Manifesto 
 
 Information is power. But like all power, there are those who want to keep it for 
 themselves. The world's entire scientific and cultural heritage, published over centuries 
