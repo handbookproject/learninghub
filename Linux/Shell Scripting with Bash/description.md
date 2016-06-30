@@ -1,0 +1,1 @@
+Bash shell scripts allow you to automate just about any task on a UNIX system. They combine the power of all the UNIX userland utilities with a powerful scripting language. Whether you are a system administrator, a developer or a power user, shell scripts will make you more productive.
